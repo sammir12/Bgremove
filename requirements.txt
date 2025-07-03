@@ -1,0 +1,6 @@
+flask==2.3.3
+numpy
+opencv-python
+Pillow
+torch
+torchvision
